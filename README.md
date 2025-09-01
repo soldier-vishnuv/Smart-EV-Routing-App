@@ -10,7 +10,7 @@
 [Click here to try the app](https://smart-ev-routing-app.streamlit.app/)
 
 ## 💻 GitHub Repository  
-[https://github.com/vishnuv336699/Smart-EV-Routing-App](https://github.com/vishnuv336699/Smart-EV-Routing-App)
+[https://github.com/soldier-vishnuv/Smart-EV-Routing-App](https://github.com/soldier-vishnuv/Smart-EV-Routing-App)
 
 ---
 
@@ -114,10 +114,11 @@ CSV file **must contain** the following columns:
 
 For queries or collaboration, reach out:
 
-* Vishnu V — [vishnuv336699@email.com](mailto:vishnuv336699@email.com)
+* Vishnu V — [soldier.vishnuv@email.com](mailto:soldier.vishnuv@email.com)
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
 
 
