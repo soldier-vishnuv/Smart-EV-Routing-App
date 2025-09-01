@@ -114,10 +114,11 @@ CSV file **must contain** the following columns:
 
 For queries or collaboration, reach out:
 
-* Vishnu V — [soldier.vishnuv@email.com](mailto:soldier.vishnuv@email.com)
+* Vishnu V — [soldier.vishnuv@gmail.com](mailto:soldier.vishnuv@gmail.com)
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
 
 
